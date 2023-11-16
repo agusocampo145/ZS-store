@@ -1,5 +1,11 @@
-<<<<<<< HEAD
 # ZSstore
+
+#🚧🚧
+## Hola! Aun estoy trabajando en este proyecto 👷 , pronto estara disponible 🔜
+#🚧🚧
+
+*Saludos Cordiales.-
+Agustin Ocampo :) 🐼*
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
 
